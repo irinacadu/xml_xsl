@@ -1,0 +1,7 @@
+a) /modulo/unidades/unidad/@nombre/data()
+
+
+b) /modulo/unidades/unidad[@id="UT1"]/test/enunciado/data()
+
+
+c) /modulo/unidades/unidad[@id="UT2"]/test/opciones/opcion[@correcta]
